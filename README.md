@@ -10,7 +10,7 @@ The original theme by mute-key this is based on was awesome but I found it start
 
 ## Preview 
 
-<img src=".showcase/systemview.jpg" width="520" height="299">
+<img src=".showcase/systemview.jpg" width="520" height="392">
 
 ## Changes from previous theme
 
