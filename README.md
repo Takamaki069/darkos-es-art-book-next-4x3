@@ -2,18 +2,11 @@
 
 Before to begin, thanks to; 
 
-> previous version: https://github.com/ljhmd0825/Arkos-43-art-book-next
+> previous version: https://github.com/mute-key/arkos-es-art-book-next-4x3
 
 ## Introduction
 
-The stock os for rg353m was very glitchy so i decided switch to ArkOS and no themes were complete for my preference.
-
-This version of the theme is for ArkOS Emulationstation-FCAMOD frontend on 640x480 resolution. More specifically it was worked on rg353m model. i didn't have enough time to  super-fine-tune the numbers of the elements but they should look just as good. 
-
-A lot of firmwares are already comes with art-book-next theme but some are yet not. If you like this variant and does not come with art-book-next theme, then there is a good chance that this theme would work for the devices (other than rg353m) if it has screen ratio of 4x3 with Emulationstation as the frontend espeically if the resolution is 640x480. 
-
-I have tested this theme on stock OS (older version of batocera) and it works into some degrees but battery indicator didn't work at all. Everything else seemed fine except that. 
-
+The original theme by mute-key this is based on was awesome but I found it started to lack systems under dArkOS and the original repo was locked, so I opted to fork it and push some updates as I do them on my own fork! I will continue to update this page and the theme when I get time but cc licence and credits are already in place as per the source I forked from!
 
 ## Preview 
 
@@ -87,7 +80,7 @@ You do not need to read this unless you want to edit the theme for yourself but 
 
 
 ## **Acknowledgments**
-* Previous version from: https://github.com/ljhmd0825/Arkos-43-art-book-next
+* Previous version from: https://github.com/mute-key/arkos-es-art-book-next-4x3
 * Original theme : https://github.com/anthonycaccese/art-book-next-jelos
 * Referenced Theme :  https://github.com/nkahoang/es-theme-art-book-next-arkos
 * Referenced Theme :  https://github.com/Jetup13/es-theme-sagaartbook
