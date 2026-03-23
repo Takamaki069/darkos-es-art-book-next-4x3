@@ -18,6 +18,7 @@ I added so far
 
 * New Systems
   - GameTank
+  - Vircon32
 
 ## **Acknowledgments**
 * Previous version from: https://github.com/mute-key/arkos-es-art-book-next-4x3
