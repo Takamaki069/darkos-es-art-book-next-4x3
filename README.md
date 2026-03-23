@@ -14,7 +14,7 @@ The original theme by mute-key this is based on was awesome but I found it start
 
 ## Changes from previous theme
 
-I added so far
+Added so far
 
 * New Systems
   - GameTank
