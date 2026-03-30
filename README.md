@@ -6,7 +6,9 @@ Before to begin, thanks to;
 
 ## Introduction
 
-The original theme by mute-key this is based on was awesome but I found it started to lack systems under dArkOS and the original repo was locked, so I opted to fork it and push some updates as I do them on my own fork! I will continue to update this page and the theme when I get time but cc licence and credits are already in place as per the source I forked from!
+The original theme by mute-key this is based on was awesome but I found it started to lack systems under dArkOS and the original repo I was unable to contribute too, so I opted to fork it and push some updates as I do them on my own fork! I will continue to update this page and the theme when I get time but cc licence and credits are already in place as per the source I forked from!
+
+Please note: this is focused on [dArkOSRE](https://github.com/southoz/dArkOSRE-R36) for the R36S, but SHOULD work on any dArkOS system!
 
 ## Preview 
 
