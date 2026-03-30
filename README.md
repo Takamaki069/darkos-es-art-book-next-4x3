@@ -14,11 +14,16 @@ The original theme by mute-key this is based on was awesome but I found it start
 
 ## Changes from previous theme
 
-Added so far
+Addintion & Fixes so far
 
 * New Systems
   - GameTank
   - Vircon32
+  - Dragon32/64
+  - Aquaplus P/ECE
+ 
+* Fixed
+  - Macintosh
 
 ## **Acknowledgments**
 * Previous version from: https://github.com/mute-key/arkos-es-art-book-next-4x3
