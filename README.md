@@ -16,7 +16,7 @@ Please note: this is focused on [dArkOSRE](https://github.com/southoz/dArkOSRE-R
 
 ## Changes from previous theme
 
-Addintion & Fixes so far
+Additions & Fixes so far
 
 * New Systems
   - Aquaplus P/ECE
