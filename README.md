@@ -20,7 +20,7 @@ Additions & Fixes so far
 
 * New Systems
   - Aquaplus P/ECE
-  - Dragon32/64
+  - Dragon 32/64
   - GameTank
   - Pymo
   - Vircon32
