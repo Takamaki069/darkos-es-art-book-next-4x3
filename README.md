@@ -19,11 +19,11 @@ Please note: this is focused on [dArkOSRE](https://github.com/southoz/dArkOSRE-R
 Addintion & Fixes so far
 
 * New Systems
-  - GameTank
-  - Vircon32
-  - Dragon32/64
   - Aquaplus P/ECE
+  - Dragon32/64
+  - GameTank
   - Pymo
+  - Vircon32
  
 * Fixed
   - Macintosh
