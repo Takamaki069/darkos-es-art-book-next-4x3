@@ -20,8 +20,10 @@ Additions & Fixes so far
 
 * New Systems
   - Aquaplus P/ECE
+  - BBK (步步高)
   - Dragon 32/64
   - GameTank
+  - Native32
   - Pymo
   - Vircon32
  
