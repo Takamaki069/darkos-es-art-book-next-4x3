@@ -23,6 +23,7 @@ Additions & Fixes so far
   - BBK (步步高)
   - Dragon 32/64
   - GameTank
+  - MakeShift Arcade
   - Native32
   - Puzzlescript
   - Pymo
